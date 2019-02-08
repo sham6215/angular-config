@@ -1,6 +1,15 @@
 # AngularConfig
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.1.
+## This project implements different configurations loading.
+The following configurations exist:
+
+
+|Command|Configuration|
+|---|---|
+`npm run start:prod`| production 
+`npm run start:dev`| dev 
+`npm run start:dev:arg`| The same as dev 
+`npm run start:temp`| temp 
 
 ## Development server
 
